@@ -10,7 +10,7 @@ export const siteConfig = {
   },
   aboutMe:
     "I’m a DevOps & Cloud Engineer with over 3 years of hands-on experience building automated, reliable, and scalable infrastructure. My passion lies in turning complex technical problems into simple, elegant workflows whether that’s through Python scripting, Ansible automation, or end-to-end CI/CD pipelines. I’m also Red Hat certified (RHCSA, RHCE, OpenShift Containers, OpenShift Administrator), which means you’re getting someone who understands enterprise-grade infrastructure, automation, and best practices at a deep level. I work across a wide technical spectrum, which includes",
-  skills: ["Python", "Linux", "Openshift", "OpenStack", "Ansible", "Podman/Docker", "K8s", "Jenkins CI/CD", "Git", "Gerrit", "GitLab", "Jira", "Redhat"],
+  skills: ["Python", "Linux", "Openshift", "OpenStack", "Ansible", "Podman/Docker", "K8s", "Helm", "Jenkins CI/CD", "Git", "Gerrit", "GitLab", "Jira", "Redhat"],
   projects: [
     {
       name: "Social Media API",

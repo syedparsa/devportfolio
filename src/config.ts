@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "Muhammad Zeeshan",
   title: "Software Engineer",
   description: "Portfolio website of Muhammad Zeeshan",
-  accentColor: "#1d4ed8",
+  accentColor: "#f5cb5c",
   social: {
     email: "syedzeshan786512@gmail.com",
     linkedin: "https://www.linkedin.com/in/syed-zeeshan-2066a4190/",

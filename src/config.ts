@@ -9,17 +9,15 @@ export const siteConfig = {
     github: "https://github.com/syedparsa",
   },
   aboutMe:
-    "Hi there! 👋
-I’m a DevOps & Platform Engineer with over 3 years of hands-on experience building automated, reliable, and scalable infrastructure. My passion lies in turning complex technical problems into simple, elegant workflows — whether that’s through Python scripting, Ansible automation, or end-to-end CI/CD pipelines.",
+    "Hi there! 👋 \nI’m a DevOps & Platform Engineer with over 3 years of hands-on experience building automated, reliable, and scalable infrastructure. My passion lies in turning complex technical problems into simple, elegant workflows — whether that’s through Python scripting, Ansible automation, or end-to-end CI/CD pipelines.",
   skills: ["Python", "Linux", "Openshift", "OpenStack", "Ansible", "Podman/Docker", "K8s", "CI/CD"],
   projects: [
     {
       name: "Social Medi Api",
       description:
-        "This API is created with the FASTAPI framework, which has many cool features like auto-update for the API documentation. Authentication, CRUD operations, Validation, SQL database (PostgreSQL), Documentation, CI/CD Jenkins pipeline,
-Deployment, update user",
+        "This API is created with the FASTAPI framework, which has many cool features like auto-update for the API documentation. Authentication, CRUD operations, Validation, SQL database (PostgreSQL), Documentation, CI/CD Jenkins pipeline, Deployment, update user",
       link: "https:/ /github.com/syedparsa/Social_Media_API",
-      skills: "Python", "Docker", "PGSQL"],
+      skills: ["Python", "Docker", "PGSQL"],
     },
     {
       name: "Advance OCR",
@@ -27,7 +25,7 @@ Deployment, update user",
         "It's an Android app to convert a picture directly from the Camera to Text. It can translate to 59 different languages",
       link: "https:/ /github.com/syedparsa/advance_OCR",
       skills: ["Java", "Kotlin"],
-    }, 
+    },
     {
       name: "University finder APP",
       description:
@@ -35,7 +33,7 @@ Deployment, update user",
       link: "https:/ /github.com/syedparsa/Social_Media_API",
       skills: ["Dart", "Android Studio", "Firebase"],
     },
-    
+
   ],
   experience: [
     {
@@ -93,12 +91,12 @@ Deployment, update user",
       date: "Feb 19, 2025",
       issuer: "Red Hat",
       link: "https:/ /rhtapps.redhat.com/verify?certId=250-016-359",
-    }, 
+    },
     {
       name: "Red Hat Certified Specialist in Containers",
       date: "Jul 18, 2025",
       issuer: "Red Hat",
       link: "https:/ /rhtapps.redhat.com/verify?certId=250-016-359",
-    }, 
-  ],           
+    },
+  ],
 };

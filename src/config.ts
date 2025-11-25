@@ -13,11 +13,11 @@ export const siteConfig = {
   skills: ["Python", "Linux", "Openshift", "OpenStack", "Ansible", "Podman/Docker", "K8s", "Jenkins CI/CD", "Git", "Gerrit", "GitLab", "Jira", "Redhat"],
   projects: [
     {
-      name: "Social Medi Api",
+      name: "Social Media API",
       description:
         "This API is created with the FASTAPI framework, which has many cool features like auto-update for the API documentation. Authentication, CRUD operations, Validation, SQL database (PostgreSQL), Documentation, CI/CD Jenkins pipeline, Deployment, update user",
       link: "https://github.com/syedparsa/Social_Media_API",
-      skills: ["Python", "Docker", "PGSQL"],
+      skills: ["Python", "Docker", "PGSQL", "FastAPI"],
     },
     {
       name: "Advance OCR",

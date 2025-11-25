@@ -1,22 +1,22 @@
 export const siteConfig = {
   name: "Muhammad Zeeshan",
   title: "Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  description: "Portfolio website of Muhammad Zeeshan",
   accentColor: "#1d4ed8",
   social: {
-    email: "syedzeshan786512@example.com",
+    email: "syedzeshan786512@gmail.com",
     linkedin: "https://www.linkedin.com/in/syed-zeeshan-2066a4190/",
     github: "https://github.com/syedparsa",
   },
   aboutMe:
-    "Hi there! 👋 \nI’m a DevOps & Platform Engineer with over 3 years of hands-on experience building automated, reliable, and scalable infrastructure. My passion lies in turning complex technical problems into simple, elegant workflows — whether that’s through Python scripting, Ansible automation, or end-to-end CI/CD pipelines.",
+    "I’m a DevOps & Cloud Engineer with over 3 years of hands-on experience building automated, reliable, and scalable infrastructure. My passion lies in turning complex technical problems into simple, elegant workflows — whether that’s through Python scripting, Ansible automation, or end-to-end CI/CD pipelines.",
   skills: ["Python", "Linux", "Openshift", "OpenStack", "Ansible", "Podman/Docker", "K8s", "CI/CD"],
   projects: [
     {
       name: "Social Medi Api",
       description:
         "This API is created with the FASTAPI framework, which has many cool features like auto-update for the API documentation. Authentication, CRUD operations, Validation, SQL database (PostgreSQL), Documentation, CI/CD Jenkins pipeline, Deployment, update user",
-      link: "https:/ /github.com/syedparsa/Social_Media_API",
+      link: "https://github.com/syedparsa/Social_Media_API",
       skills: ["Python", "Docker", "PGSQL"],
     },
     {
@@ -30,7 +30,7 @@ export const siteConfig = {
       name: "University finder APP",
       description:
         "It's a user-friendly Android app to find a dream university",
-      link: "https:/ /github.com/syedparsa/Social_Media_API",
+      link: "https://github.com/syedparsa/Social_Media_API",
       skills: ["Dart", "Android Studio", "Firebase"],
     },
 
@@ -41,13 +41,14 @@ export const siteConfig = {
       title: "Software Engineer",
       dateRange: "Jan 2024 - Present",
       bullets: [
-        "Development, deploying, and managing cloud native applications",
         "DevSecOps role and operations",
+        "Development, deploying, and managing cloud native applications",
         "Writing Ansible playbooks and shell/bash Scripts for automation",
         "Autoscaling setup",
         "Containerization",
         "OpenShift objects (Routes, BuildConfigs, ImageStreams)",
         "RBAC & security best practices",
+        "Implementing CI/CD pipeline to reduce deployment times",
       ],
     },
     {
@@ -58,6 +59,7 @@ export const siteConfig = {
         "DevSecOps role and operations",
         "Writing Ansible playbooks and shell/bash Scripts for automation",
         "Implementing CI/CD pipeline to reduce deployment times",
+        "Implementing security best practices",
       ],
     },
   ],
@@ -78,25 +80,25 @@ export const siteConfig = {
       name: "Red Hat Certified Engineer",
       date: "Jun 18, 2025",
       issuer: "Red Hat",
-      link: "https:/ /rhtapps.redhat.com/verify?certId=250-016-359",
+      link: "https://rhtapps.redhat.com/verify?certId=250-016-359",
     },
     {
       name: "Red Hat Certified OpenShift Administrator",
       date: "Oct 17, 2025",
       issuer: "Red Hat",
-      link: "https:/ /rhtapps.redhat.com/verify?certId=250-016-359",
+      link: "https://rhtapps.redhat.com/verify?certId=250-016-359",
     },
     {
       name: "Red Hat Certified System Administrator",
       date: "Feb 19, 2025",
       issuer: "Red Hat",
-      link: "https:/ /rhtapps.redhat.com/verify?certId=250-016-359",
+      link: "https://rhtapps.redhat.com/verify?certId=250-016-359",
     },
     {
       name: "Red Hat Certified Specialist in Containers",
       date: "Jul 18, 2025",
       issuer: "Red Hat",
-      link: "https:/ /rhtapps.redhat.com/verify?certId=250-016-359",
+      link: "https://rhtapps.redhat.com/verify?certId=250-016-359",
     },
   ],
 };

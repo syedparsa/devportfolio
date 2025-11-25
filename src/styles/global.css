@@ -1,5 +1,6 @@
 @import "tailwindcss";
 
 body {
+  background-color: #DBE8D5;
   font-family: 'IBM Plex Mono', monospace;
 }
